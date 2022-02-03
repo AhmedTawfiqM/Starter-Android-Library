@@ -3,7 +3,7 @@
 - it contain 3 layers for common componnets (core - data - presentation) and library module
 
 <p align="center">
-<img src="https://github.com/MhmoudAlim/Compose-Ratingbar-library/blob/master/blob/logo.png" alt="AndroidLibray"/>
+<img src="https://github.com/AhmedTawfiqM/starter-android-library/blob/master/logo.png" alt="AndroidLibray"/>
 </p>
 
 
@@ -19,7 +19,7 @@
 
 
 <br/>
-<img src="https://github.com/MhmoudAlim/Compose-Ratingbar-library/blob/master/blob/clean.png" alt="clean-architecture"/>
+<img src="https://github.com/AhmedTawfiqM/starter-android-library/blob/master/clean.png" alt="clean-architecture"/>
 
 
 
