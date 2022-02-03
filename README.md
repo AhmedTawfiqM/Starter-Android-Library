@@ -10,7 +10,7 @@
 # Table of contents
 
 - [Installation](#installation)
-- [Why](#preview)
+- [Why](#why)
 
 
 ## Installation
