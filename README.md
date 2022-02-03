@@ -16,7 +16,7 @@
 ## Installation
 
 ### 1- clone the project and just rename the Root Name as you like :) 
-### 2- Now Congratulations :) :heart: now you can develop your library in Library module
+### 2- Now Congratulations :) :heart:  you can develop your library in Library module
 
 ## Why
 
@@ -42,5 +42,5 @@
 - Improves Manageability
 - Collaboration
 
-check my last lecture about Clean architecture and Clean Code [Lecture](https://www.youtube.com/watch?v=kFll5whDTJc&t=759s&ab_channel=AHMEDTAWFIQ)
+##check my last lecture about Clean architecture and Clean Code [Lecture](https://www.youtube.com/watch?v=kFll5whDTJc&t=759s&ab_channel=AHMEDTAWFIQ)
 
