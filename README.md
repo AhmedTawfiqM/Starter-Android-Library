@@ -30,8 +30,6 @@
 
 # why Modular Architecture ?
 
-![Alt text](arch2.png)
-
 - The Project is Clean , Testable , Maintainable and changable
 - High quality App with high cohesion and low coupling
 - Build Time 
@@ -42,5 +40,5 @@
 - Improves Manageability
 - Collaboration
 
-##check my last lecture about Clean architecture and Clean Code [Lecture](https://www.youtube.com/watch?v=kFll5whDTJc&t=759s&ab_channel=AHMEDTAWFIQ)
+## Check my last lecture about Clean architecture and Clean Code [Lecture](https://www.youtube.com/watch?v=kFll5whDTJc&t=759s&ab_channel=AHMEDTAWFIQ)
 
