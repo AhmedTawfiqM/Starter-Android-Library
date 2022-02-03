@@ -40,5 +40,12 @@
 - Improves Manageability
 - Collaboration
 
+## :clap: Contribution
+
+- PRs are welcome, let's make this library better. :raised_hands:
+
+- please :star: if you like the idea!
+
+
 ## Check my last lecture about Clean architecture and Clean Code [Lecture](https://www.youtube.com/watch?v=kFll5whDTJc&t=759s&ab_channel=AHMEDTAWFIQ)
 
