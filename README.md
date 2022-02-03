@@ -3,7 +3,7 @@
 - it contain 3 layers for common componnets (core - data - presentation) and library module
 
 <p align="center">
-<img src="https://github.com/MhmoudAlim/Compose-Ratingbar-library/logo.png?raw=true" alt="AndroidLibray"/>
+<img src="https://github.com/MhmoudAlim/Compose-Ratingbar-library/blob/master/blob/logo.png?raw=true" alt="AndroidLibray"/>
 </p>
 
 
@@ -19,7 +19,8 @@
 
 
 <br/>
-<img src="https://github.com/MhmoudAlim/Compose-Ratingbar-library/clean.png?raw=true" alt="AndroidLibray"/>
+<img src="https://github.com/MhmoudAlim/Compose-Ratingbar-library/blob/master/blob/clean.png?raw=true" alt=""/>
+
 
 
 ## Installation
