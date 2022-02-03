@@ -1,3 +1,7 @@
+![Android](https://img.shields.io/badge/swift-v5.3-orange.svg)
+![License](https://img.shields.io/badge/License-Apache-blue.svg)
+https://img.shields.io/static/v1?label=Starter&message=Android&color=green
+
 **Starter Android Library**  is an Android Project with Modular Architecture.
 - Codebase to start your library clean and testable.
 - it contain 3 layers for common components (core - data - presentation) and library module
@@ -46,6 +50,8 @@
 
 - please :star: if you like the idea!
 
+## Acknowledgments
+- Big thanks to all who have contributed, raised an issue or simply find use in this project. Cheers!
 
 ## Check my last lecture about Clean architecture and Clean Code [Lecture](https://www.youtube.com/watch?v=kFll5whDTJc&t=759s&ab_channel=AHMEDTAWFIQ)
 
