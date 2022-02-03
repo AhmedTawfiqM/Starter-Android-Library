@@ -1,6 +1,6 @@
-![Android](https://img.shields.io/badge/swift-v5.3-orange.svg)
+![Kotlin](https://img.shields.io/badge/swift-v5.3-orange.svg)
 ![License](https://img.shields.io/badge/License-Apache-blue.svg)
-https://img.shields.io/static/v1?label=Starter&message=Android&color=green
+![Message](https://img.shields.io/static/v1?label=Starter&message=Android&color=green)
 
 **Starter Android Library**  is an Android Project with Modular Architecture.
 - Codebase to start your library clean and testable.
