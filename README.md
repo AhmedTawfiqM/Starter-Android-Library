@@ -15,7 +15,7 @@
 
 ## Installation
 
-### 1- clone the project and just rename the Root Name as you like :) 
+### 1- Clone the project 
 ### 2- Now Congratulations :) :heart:  you can develop your library in Library module
 
 ## Why
