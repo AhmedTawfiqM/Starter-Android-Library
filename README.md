@@ -9,8 +9,8 @@
 
 # Table of contents
 
-- [Why](#preview)
 - [Installation](#installation)
+- [Why](#preview)
 
 
 ## Installation
