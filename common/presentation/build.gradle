@@ -3,4 +3,5 @@ apply from: "$rootDir/$GradleName.common"
 dependencies {
     api project(AppModule.core)
     api project(AppModule.data)
+
 }

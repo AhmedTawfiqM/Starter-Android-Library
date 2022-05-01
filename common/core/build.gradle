@@ -9,11 +9,12 @@ dependencies {
     api Libs.materialDesignLibs.material
     api Libs.androidLibs.constraintLayout
 
+    api Libs.coroutinesLibs.coroutinesCore
+    api Libs.coroutinesLibs.coroutinesAndroid
+
     //Test Libs
     api TestLibs.junit
     api TestLibs.androidXLibs.junit
     api TestLibs.androidXLibs.espresso
 
-    api Libs.coroutinesLibs.coroutinesCore
-    api Libs.coroutinesLibs.coroutinesAndroid
 }
